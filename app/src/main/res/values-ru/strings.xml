@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attempts_done">Выполнено:</string>
+    <string name="attempts_failed">Провалено:</string>
+    <string name="attempts_skipped">Пропущено:</string>
+    <string name="list_done">Выполнили:</string>
+    <string name="list_failed">Провалили:</string>
+    <string name="list_skipped">Пропустили:</string>
+    <string name="general_stats">Общая статистика</string>
+    <string name="detailed_stats">Подробная статистика</string>
+    <string name="show_result">Результат</string>
+</resources>

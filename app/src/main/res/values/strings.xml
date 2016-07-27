@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleQz</string>
+    <string name="attempts_done">Done:</string>
+    <string name="attempts_failed">Failed:</string>
+    <string name="attempts_skipped">Skipped:</string>
+    <string name="list_done">Done:</string>
+    <string name="list_failed">Failed:</string>
+    <string name="list_skipped">Skipped:</string>
+    <string name="general_stats">General statistics</string>
+    <string name="detailed_stats">Detailed statistics</string>
+    <string name="show_result">Result</string>
+</resources>
